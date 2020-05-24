@@ -1,0 +1,15 @@
+C:\Users\keeno\source\repos\Music_Player_Forms_Edition\Music_Player_Forms_Edition\bin\Debug\Music_Player_Forms_Edition.exe.config
+C:\Users\keeno\source\repos\Music_Player_Forms_Edition\Music_Player_Forms_Edition\bin\Debug\Music_Player_Forms_Edition.exe
+C:\Users\keeno\source\repos\Music_Player_Forms_Edition\Music_Player_Forms_Edition\bin\Debug\Music_Player_Forms_Edition.pdb
+C:\Users\keeno\source\repos\Music_Player_Forms_Edition\Music_Player_Forms_Edition\obj\Debug\Music_Player_Forms_Edition.csprojAssemblyReference.cache
+C:\Users\keeno\source\repos\Music_Player_Forms_Edition\Music_Player_Forms_Edition\obj\Debug\Music_Player_Forms_Edition.Form1.resources
+C:\Users\keeno\source\repos\Music_Player_Forms_Edition\Music_Player_Forms_Edition\obj\Debug\Music_Player_Forms_Edition.Properties.Resources.resources
+C:\Users\keeno\source\repos\Music_Player_Forms_Edition\Music_Player_Forms_Edition\obj\Debug\Music_Player_Forms_Edition.csproj.GenerateResource.cache
+C:\Users\keeno\source\repos\Music_Player_Forms_Edition\Music_Player_Forms_Edition\obj\Debug\Music_Player_Forms_Edition.csproj.CoreCompileInputs.cache
+C:\Users\keeno\source\repos\Music_Player_Forms_Edition\Music_Player_Forms_Edition\obj\Debug\Music_Player_Forms_Edition.exe
+C:\Users\keeno\source\repos\Music_Player_Forms_Edition\Music_Player_Forms_Edition\obj\Debug\Music_Player_Forms_Edition.pdb
+C:\Users\keeno\source\repos\Music_Player_Forms_Edition\Music_Player_Forms_Edition\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\keeno\source\repos\Music_Player_Forms_Edition\Music_Player_Forms_Edition\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\keeno\source\repos\Music_Player_Forms_Edition\Music_Player_Forms_Edition\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\keeno\source\repos\Music_Player_Forms_Edition\Music_Player_Forms_Edition\obj\Debug\Interop.WMPLib.dll
+C:\Users\keeno\source\repos\Music_Player_Forms_Edition\Music_Player_Forms_Edition\obj\Debug\Music_Player_Forms_Edition.csproj.ResolveComReference.cache
